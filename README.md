@@ -1,3 +1,3 @@
-# TestSPM
+# Introduction to Version Control (GIT)
 
-Introduction to Version Control
+Version control is very useful.
